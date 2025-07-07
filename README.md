@@ -65,4 +65,4 @@ This project analyzes the spread and impact of COVID-19 across Indian states usi
 ## 🧠 Author
 
 **Adarsh Kumar**
-
+**THANKS A LOT FOR CHECKING MY PROJECT IT TOOK A LOT OF HARD WORK I GOT A LOT OF LEARNING FROM IT.**
